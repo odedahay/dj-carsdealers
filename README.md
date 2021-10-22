@@ -1,2 +1,2 @@
-# Django Carsdealers website
+# Django Cars Dealer website
 
